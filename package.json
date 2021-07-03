@@ -1,0 +1,21 @@
+{
+  "name": "node-js-init",
+  "version": "1.0.0",
+  "description": "Shibli Node.js Pr",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MD-Shibli-Mollah/Node-JS-Init.git"
+  },
+  "author": "MD Shibli Mollah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MD-Shibli-Mollah/Node-JS-Init/issues"
+  },
+  "homepage": "https://github.com/MD-Shibli-Mollah/Node-JS-Init#readme"
+}
